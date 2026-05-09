@@ -1,4 +1,4 @@
-This is my stock analysis project# 📈 Stock Analysis — Sector Correlation Framework
+#📈 Stock Analysis — Sector Correlation Framework
 
 A Python project focused on analyzing how major US market sectors move relative to each other using sector ETFs.
 
@@ -42,11 +42,11 @@ The project studies:
 
 ## 📊 Correlation Classification
 
-| Correlation          | Strength |
+|      Correlation     | Strength |
 | -------------------- | -------- |
-| |corr| ≥ 0.65        | Strong   |
+|        ≥ 0.65        | Strong   |
 | 0.40 ≤ |corr| < 0.65 | Moderate |
-| |corr| < 0.40        | Weak     |
+|        < 0.40        | Weak     |
 
 ---
 
@@ -60,7 +60,7 @@ During periods of:
 * macroeconomic shocks,
 * or panic selling,
 
-multiple sectors can suddenly become highly correlated.
+Multiple sectors can suddenly become highly correlated.
 
 ---
 
@@ -90,6 +90,4 @@ python main.py
 
 [Read the Full Article](https://medium.com/@somap982/sector-correlations-are-not-static-a-small-experiment-with-us-sector-etfs-8fc02e550317?utm_source=chatgpt.com)
 
-### GitHub Repository
 
-[Project Repository](https://github.com/arka-mx/Stock-analysis?utm_source=chatgpt.com)
